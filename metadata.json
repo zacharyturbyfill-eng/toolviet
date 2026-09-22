@@ -1,0 +1,6 @@
+{
+  "name": "Podcast Script Writer",
+  "description": "Smart conversational podcast scripter and rewriter from long text sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
